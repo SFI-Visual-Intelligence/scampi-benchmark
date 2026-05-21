@@ -1,3 +1,5 @@
+Paper: The Fossil Frontier: An answer to the 3-billion fossil question ([Link](https://api.nva.unit.no/publication/019bfed2ee78-4fcc28d7-1c6e-4f00-bfb6-decb3cac7b72))
+
 ## Scampi Benchmark - compare feature-extraction methods for microfossil images
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
